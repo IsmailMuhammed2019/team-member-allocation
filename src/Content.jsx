@@ -3,7 +3,7 @@ import Employee from './Employee'
 
 const Content = () => {
   return (
-    <div><Employee /></div>
+    <main className='container'><Employee /></main>
   )
 }
 
